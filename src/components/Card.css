@@ -15,10 +15,10 @@
 
   box-sizing: border-box;
 
-  padding-block: 2rem;
+  padding-block: 3rem;
 }
 p {
   padding: 2px;
   text-transform: capitalize;
-  font-size: larger;
+  font-size: 2rem;
 }

@@ -34,7 +34,7 @@ select {
 .item {
   min-width: 85%;
   min-height: 500px;
-  height: 75vh;
+  height: 50vh;
 
   box-sizing: border-box;
 }

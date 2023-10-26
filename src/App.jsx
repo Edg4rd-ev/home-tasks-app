@@ -69,7 +69,6 @@ function App() {
 
   useEffect(() => {
     setWidth(corusel.current?.scrollWidth - corusel.current?.offsetWidth)
-    console.log(corusel.current?.scrollWidth - corusel.current?.offsetWidth)
   },[getValue])
 
   return (
